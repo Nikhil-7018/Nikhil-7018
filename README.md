@@ -2,9 +2,9 @@
 
 👀 I'm passionate about FullStack development, constantly exploring the ever-evolving landscape of technology.
 
-🌱 Currently immersed in the world of B.E (CSE) at Chitkara University, I'm not only shaping my skills in FullStack development but also delving into the intricacies of C++.
+🌱 Currently immersed in the world of B.E (CSE) at Chitkara University, I'm not only shaping my skills in FullStack development but also exploring and enjoying my life.
 
-💞️ I'm eagerly seeking collaboration opportunities in Front End Development, particularly in the MERN stack. Let's build something amazing together!
+Here is my Portfolio . Please check it out.
 
 📫 Feel free to reach out to me:
 
