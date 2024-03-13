@@ -4,7 +4,7 @@
 
 🌱 Currently immersed in the world of B.E (CSE) at Chitkara University, I'm not only shaping my skills in FullStack development but also exploring and enjoying my life.
 
-Here is my [Portfolio]() . Please check it out.
+Here is my [Portfolio](https://nikhil-guleria.netlify.app/) . Please check it out.
 
 📫 Feel free to reach out to me:
 
