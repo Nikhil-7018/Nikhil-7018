@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil-7018" alt="nikhil-7018" /></a> </p>
 
-- 🔭 I’m currently working on **PriceRadar**
+- 🔭 I’m currently working on **Banking Site** 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://nikhilguleria.vercel.app/](https://nikhilguleria.vercel.app/)
 
-- 📫 How to reach me **gulerian282@gmail.com**
+- 📫 How to reach me **gulerian282@gmail.com** linked- ** **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
