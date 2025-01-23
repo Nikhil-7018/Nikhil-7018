@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Banking Site** 
 
-- 🌱 I’m currently learning **React, Cloud Computing**
+- 🌱 I’m currently learning **React and Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://nikhilguleria.vercel.app/](https://nikhilguleria.vercel.app/)
 
-- 📫 How to reach me **gulerian282@gmail.com** linked- ** **
+- 📫 How to reach me **gulerian282@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
