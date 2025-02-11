@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil-7018" alt="nikhil-7018" /></a> </p>
 
-- 🔭 I’m currently working on **Banking Site** 
+- 🔭 I’m currently working on **Veggie Cart Website** 
 
 - 🌱 I’m currently learning **React and Cloud Computing**
 
